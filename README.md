@@ -1,4 +1,4 @@
 # Scrapers
-Contains code for scrapers in a notebook format
+Contains code for scrapers in the notebook format
 # Data
-Contains csv files, e.g. results of scraping
+Contains csv files, i.e. results of scraping
